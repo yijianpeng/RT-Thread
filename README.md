@@ -15,7 +15,9 @@
 <img title="" src="https://img-blog.csdnimg.cn/8137d53e21cf4a35abfa9c6edd25f872.png" alt="在这里插入图片描述" data-align="center">
 
 ## 4.项目地址
-
+代码：
 [GitHub - yijianpeng/RT-Thread](https://github.com/yijianpeng/RT-Thread)
-
+展示视频：
 https://www.bilibili.com/video/BV1AT41177n8/
+教学视频：
+https://www.bilibili.com/video/BV1AG4y1a7QF?spm_id_from=333.999.0.0&vd_source=43c657e0b3d96f6a3b1a2f06ddd93566
